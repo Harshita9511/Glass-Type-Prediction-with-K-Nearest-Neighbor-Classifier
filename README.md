@@ -8,7 +8,7 @@ KNN is a supervised machine learning algorithm for regression and classification
 
 ## Dataset
 This is a Glass Identification Data Set from UCI. The main objective of the analysis is to classify data points based on their glass type with K Nearest Neighbor Classifier.<br />
-Data Source: [Dataset](https://archive.ics.uci.edu/ml/datasets/Glass+Identification)<br /><br />
+Data Source: [Dataset](https://archive.ics.uci.edu/ml/datasets/Glass+Identification)<br />
 
 *Id number:* 1 to 214 (removed from CSV file)<br />
 *RI:* refractive index<br />
